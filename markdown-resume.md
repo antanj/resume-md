@@ -1,3 +1,4 @@
+<!-- Specifically tailored version of the cv for https://github.com/junian/markdown-resume/-->
 # Justas Antanaitis
 
 <span class="iconify" data-icon="tabler:phone"></span> [(+370) 600-86206](https://wa.me/11234567890)
@@ -16,7 +17,6 @@ I'm a full-stack engineer with 9 years of experience, mostly as an independent c
 
 I work with clients as an independent full-stack engineer, usually taking ownership from architecture to delivery and ongoing maintenance.
 
-**Selected work:**
 - **Decathlon | Product NPS & BI Platform**
   - Serve as primary engineer for Decathlon’s Product NPS platform across preparation, survey, and results systems.
   - Ship end-to-end work from frontend and backend development to infrastructure changes.
