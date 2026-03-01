@@ -1,0 +1,81 @@
+# Justas Antanaitis
+
+<span class="iconify" data-icon="tabler:phone"></span> [(+370) 600-86206](https://wa.me/11234567890)
+  : <span class="iconify" data-icon="tabler:brand-linkedin"></span> [linkedin.com/in/justas-antanaitis/](https://linkedin.com/in/justas-antanaitis/)
+  : <span class="iconify" data-icon="tabler:mail"></span> [antanaitis.justas@gmail.com](mailto:mail@example.com)
+  : <span class="iconify" data-icon="ic:outline-location-on"></span> Kaunas, Lithuania
+
+## About Me
+
+I'm a full-stack engineer with 9 years of experience, mostly as an independent contractor. I deliver products end-to-end, from architecture and implementation to deployment and long-term maintenance. My background is strongest in ERP and analytics systems. More recently, I've been building AI agents and workflows for business use cases. I'm currently working toward AWS Solutions Architect Associate certification, while continuously improving how I use AI in development and deepening my AI engineering skills.
+
+## Experience
+
+**Full-Stack Software Engineer @ Freelance**
+  : **April 2018 - Present | 8 years**
+
+I work with clients as an independent full-stack engineer, usually taking ownership from architecture to delivery and ongoing maintenance.
+
+**Selected work:**
+- **Decathlon | Product NPS & BI Platform**
+  - Serve as primary engineer for Decathlon’s Product NPS platform across preparation, survey, and results systems.
+  - Ship end-to-end work from frontend and backend development to infrastructure changes.
+  - Build AI workflows and agents for analysis and decision support.
+
+- **RG Consulting | ERP Solution**
+  - Led a frontend architecture refactor to improve developer experience, code quality, maintainability, and long-term scalability.
+  - Build a voice-enabled AI agent to streamline day-to-day user workflows.
+
+- **Global Shipping Logistics | ERP Solution**
+  - Worked on a new ERP analytics dashboard and contributed to UI architecture refactoring.
+
+- **Digital Asset Exchange | Trading Infrastructure**
+  - Delivered the full observability solution on the ELK stack, optimized market-making algorithms, and improved container orchestration.
+
+- **Stealth Project | Employee Engagement & Learning Platform**
+  - Building a SaaS survey solution for C-level leaders and managers to gather employee feedback and support engagement and learning.
+
+- **Spec-First SaaS Platform (Passion Project)**
+  - Building a stealth spec management SaaS with AI-assisted workflows for software specification quality and consistency.
+
+**Software Engineer @ Virtustream**
+  : **March 2018 - April 2019**
+
+- Built React UI features for an enterprise risk and compliance monitoring platform in an international team.
+
+**Software Engineer @ Grand ERP**
+  : **January 2017 - March 2018**
+
+- Developed full-stack features for an ERP platform serving SMB manufacturing and distribution companies.
+- Early in my career, my first team trusted me with end-to-end ERP features, which accelerated my growth as an engineer.
+- Built end-to-end ERP features, including domain-specific configurators and pricing calculators for complex products.
+
+**Intern Web Developer (Erasmus internship)**
+  : **RVD Media Group**
+  : **May 2017 - June 2017**
+
+Built frontend features and supported production tasks as part of an Erasmus software engineering internship.
+
+## Education
+**Machine Learning, Optimization Algorithms**
+: **2017 - 2020**
+
+Additional Graduate-Level Coursework (Computer Science)
+  : Kaunas, Lithuania
+
+**Web Development**
+  : **2016 - 2017**
+
+Kaunas School of Information Technology
+  : Kaunas, Lithuania
+
+**Bachelor's Degree, Psychology**
+  : **2012 - 2016**
+
+Vytautas Magnus University
+  : Kaunas, Lithuania
+
+## **Additional Information**
+
+**Languages:** Lithuanian (native), English (fluent).  
+**Interests:** calisthenics, board sports, music.
