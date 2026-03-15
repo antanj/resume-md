@@ -49,9 +49,8 @@ I work with clients as an independent full-stack engineer, usually taking owners
 **January 2017 - March 2018**
   : **Software Engineer @ Grand ERP**
 
-- Developed full-stack features for an ERP platform serving SMB manufacturing and distribution companies.
+- Developed full-stack features for an ERP platform serving SMB manufacturing and distribution companies, including domain-specific configurators and pricing calculators for complex products.
 - Early in my career, my first team trusted me with end-to-end ERP features, which accelerated my growth as an engineer.
-- Built end-to-end ERP features, including domain-specific configurators and pricing calculators for complex products.
 
 **Intern Web Developer (Erasmus internship)**
   : **RVD Media Group**
