@@ -8,7 +8,7 @@
 
 ## About Me
 
-I'm a full-stack engineer with 9 years of experience, mostly as an independent contractor. I deliver products end-to-end, from architecture and implementation to deployment and long-term maintenance. My background is strongest in ERP and analytics systems. More recently, I've been building AI agents and workflows for business use cases. I'm currently working toward AWS Solutions Architect Associate certification, while continuously improving how I use AI in development and deepening my AI engineering skills.
+I'm a full-stack engineer with 9 years of experience. I take ownership of products end-to-end, from architecture and implementation to deployment and long-term maintenance. My background is strongest in ERP, analytics, and internal business systems, where I combine product thinking with hands-on frontend, backend, and infrastructure work. More recently, I've been building AI agents and workflows for business use cases while deepening my cloud architecture and AI engineering skills.
 
 ## Experience
 
