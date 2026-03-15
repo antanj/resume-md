@@ -59,11 +59,13 @@ I work with clients as an independent full-stack engineer, usually taking owners
 Built frontend features and supported production tasks as part of an Erasmus software engineering internship.
 
 ## Education
-**Machine Learning, Optimization Algorithms**
-: **2017 - 2020**
+**Additional Graduate-Level Coursework (Computer Science)**
+  : **2017 - 2020**
 
-Additional Graduate-Level Coursework (Computer Science)
+Vytautas Magnus University
   : Kaunas, Lithuania
+
+Relevant coursework: Machine Learning, Optimization Algorithms
 
 **Web Development**
   : **2016 - 2017**
