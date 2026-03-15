@@ -39,10 +39,6 @@ I work with clients as an independent full-stack engineer, helping shape solutio
   - Build a multi-tenant SaaS survey platform end-to-end with React, NestJS, PostgreSQL, and MikroORM for employee engagement and learning workflows.
   - Own solution design across backend architecture, data modeling, and implementation, creating a foundation that is easier to extend as tenant and product requirements evolve.
 
-- **Spec-First SaaS Platform (Passion Project)**
-  - Build a spec management SaaS focused on improving software specification quality and consistency.
-  - Develop AI-assisted workflows to support specification authoring, review, and refinement.
-
 **Selected Past Projects**
 
 - **Shipping Logistics Platform | ERP Solution** - Built Next.js analytics dashboard features and contributed to UI architecture refactoring for a more consistent and maintainable frontend foundation.
