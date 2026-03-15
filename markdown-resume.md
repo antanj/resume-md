@@ -60,18 +60,13 @@ I work with clients as an independent full-stack engineer, helping shape solutio
 Built frontend features and supported production tasks as part of an Erasmus software engineering internship.
 
 ## Education
-**2017 - 2020**
-  : **Additional Graduate-Level Coursework (Computer Science)**
+**2017 - 2020**&nbsp;&nbsp;&nbsp;&nbsp;**Graduate-Level Coursework**
   : Vytautas Magnus University, Kaunas, Lithuania
 
-Relevant coursework: Machine Learning, Optimization Algorithms
-
-**2016 - 2017**
-  : **Web Development**
+**2016 - 2017**&nbsp;&nbsp;&nbsp;&nbsp;**Web Development**
   : Kaunas School of Information Technology, Kaunas, Lithuania
 
-**2012 - 2016**
-  : **Bachelor's Degree, Psychology**
+**2012 - 2016**&nbsp;&nbsp;&nbsp;&nbsp;**Bachelor's Degree, Psychology**
   : Vytautas Magnus University, Kaunas, Lithuania
 
 ## Additional Information
