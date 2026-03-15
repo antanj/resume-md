@@ -10,6 +10,12 @@
 
 I'm a full-stack engineer with 9 years of experience. I take ownership of products end-to-end, from architecture and implementation to deployment and long-term maintenance. My background is strongest in ERP, analytics, and internal business systems, where I combine product thinking with hands-on frontend, backend, and infrastructure work. More recently, I've been building AI agents and workflows for business use cases while deepening my cloud architecture and AI engineering skills.
 
+## Skills
+
+**Core Stack:** TypeScript, JavaScript, React, Next.js, Node.js, PostgreSQL
+**AI & Data:** AI agents, workflow automation, LLM integrations, ERP, analytics systems
+**Cloud & Operations:** Docker, CI/CD, Linux
+
 ## Experience
 
 **April 2018 - Present | 8 years**
