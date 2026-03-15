@@ -12,9 +12,10 @@ I'm a full-stack engineer with 9 years of experience delivering products end-to-
 
 ## Skills
 
-**Core Stack:** TypeScript, JavaScript, React, Next.js, Node.js, PostgreSQL
-**AI & Data:** AI agents, workflow automation, LLM integrations, ERP, analytics systems
-**Cloud & Operations:** Docker, CI/CD, Linux
+**Core Stack:** TypeScript, React, Next.js, Node.js, PostgreSQL
+**AI:** AI agents, workflow automation, Mastra, CopilotKit
+**Additional Experience:** .NET, Python
+**Architecture & Operations:** Docker, CI/CD, Linux, modular frontend architecture, multi-service backend systems
 
 ## Experience
 
