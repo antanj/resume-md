@@ -17,26 +17,30 @@ I'm a full-stack engineer with 9 years of experience, mostly as an independent c
 
 I work with clients as an independent full-stack engineer, usually taking ownership from architecture to delivery and ongoing maintenance.
 
+**Ongoing**
+
 - **Decathlon | Product NPS & BI Platform**
   - Serve as primary engineer for Decathlon’s Product NPS platform across preparation, survey, and results systems.
   - Ship end-to-end work from frontend and backend development to infrastructure changes.
   - Build AI workflows and agents for analysis and decision support.
 
 - **RG Consulting | ERP Solution**
-  - Led a frontend architecture refactor to improve developer experience, code quality, maintainability, and long-term scalability.
+  - Lead a frontend architecture refactor to improve developer experience, code quality, maintainability, and long-term scalability.
   - Build a voice-enabled AI agent to streamline day-to-day user workflows.
+
+- **Stealth Project | Employee Engagement & Learning Platform**
+  - Build a SaaS survey solution for C-level leaders and managers to gather employee feedback and support engagement and learning.
+
+- **Spec-First SaaS Platform (Passion Project)**
+  - Build a stealth spec management SaaS with AI-assisted workflows for software specification quality and consistency.
+
+**Selected Past Projects**
 
 - **Global Shipping Logistics | ERP Solution**
   - Worked on a new ERP analytics dashboard and contributed to UI architecture refactoring.
 
 - **Digital Asset Exchange | Trading Infrastructure**
   - Delivered the full observability solution on the ELK stack, optimized market-making algorithms, and improved container orchestration.
-
-- **Stealth Project | Employee Engagement & Learning Platform**
-  - Building a SaaS survey solution for C-level leaders and managers to gather employee feedback and support engagement and learning.
-
-- **Spec-First SaaS Platform (Passion Project)**
-  - Building a stealth spec management SaaS with AI-assisted workflows for software specification quality and consistency.
 
 **March 2018 - April 2019**
   : **Software Engineer @ Virtustream**
