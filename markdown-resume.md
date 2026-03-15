@@ -22,18 +22,18 @@ I'm a full-stack engineer with 9 years of experience delivering products end-to-
 **April 2018 - Present | 8 years**
   : **Full-Stack Software Engineer @ Freelance**
 
-I work with clients as an independent full-stack engineer, usually taking ownership from architecture to delivery and ongoing maintenance.
+I work with clients as an independent full-stack engineer, helping shape solutions from early scoping and architecture through delivery, rollout, and long-term maintenance.
 
 **Ongoing**
 
 - **Decathlon | Product NPS & BI Platform**
-  - Own most of the platform across survey preparation, survey delivery, results dashboards, and reporting systems.
-  - Deliver across the full lifecycle, from implementation and CI/CD to production maintenance and ongoing improvements.
+  - Own core platform areas across survey preparation, survey delivery, results dashboards, and reporting systems, helping shape technical direction across multiple business workflows.
+  - Deliver across the full lifecycle, from implementation and CI/CD to production maintenance and ongoing improvements, balancing feature delivery with long-term platform reliability.
   - Build containerized .NET and Node.js services, React and Next.js frontends, PostgreSQL reporting flows, and AI agents with Mastra and CopilotKit.
 
 - **RG Consulting | ERP Solution**
-  - Lead a frontend architecture refactor for a large React, MUI, Redux, and Nx-based ERP application to improve developer experience, code quality, maintainability, and long-term scalability.
-  - Build a voice-enabled CRM AI agent with Node.js, Express, Mastra, Google GenAI, and CopilotKit to streamline day-to-day user workflows.
+  - Lead frontend architecture decisions for a large React, MUI, Redux, and Nx-based ERP application, partnering with stakeholders on technical direction and establishing patterns that improved consistency across modules.
+  - Build a voice-enabled CRM AI agent with Node.js, Express, Mastra, Google GenAI, and CopilotKit, shaping the solution around user workflows to reduce repetitive CRM work.
 
 - **Stealth Project | Employee Engagement & Learning Platform**
   - Build a tenant-based SaaS survey platform end-to-end with React, NestJS, PostgreSQL, and MikroORM.
