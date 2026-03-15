@@ -27,9 +27,8 @@ I work with clients as an independent full-stack engineer, usually taking owners
 
 - **Decathlon | Product NPS & BI Platform**
   - Own most of the platform across survey preparation, survey delivery, results dashboards, and reporting systems.
-  - Build and maintain containerized services across Node.js and .NET, along with React and Next.js frontends.
-  - Design PostgreSQL data models and denormalized reporting flows to support performance, aggregation, and analytics use cases.
-  - Build AI agents with Mastra and agent-facing UI with CopilotKit for analysis and decision-support workflows.
+  - Deliver across the full lifecycle, from implementation and CI/CD to production maintenance and ongoing improvements.
+  - Build containerized .NET and Node.js services, React and Next.js frontends, PostgreSQL reporting flows, and AI agents with Mastra and CopilotKit.
 
 - **RG Consulting | ERP Solution**
   - Lead a frontend architecture refactor to improve developer experience, code quality, maintainability, and long-term scalability.
