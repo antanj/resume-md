@@ -39,7 +39,8 @@ I work with clients as an independent full-stack engineer, usually taking owners
   - Own the full solution across product implementation, backend architecture, data modeling, and ongoing development.
 
 - **Spec-First SaaS Platform (Passion Project)**
-  - Build a stealth spec management SaaS with AI-assisted workflows for software specification quality and consistency.
+  - Build a spec management SaaS focused on improving software specification quality and consistency.
+  - Develop AI-assisted workflows to support specification authoring, review, and refinement.
 
 **Selected Past Projects**
 
