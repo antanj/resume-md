@@ -1,9 +1,9 @@
 <!-- Specifically tailored version of the cv for https://github.com/junian/markdown-resume/-->
 # Justas Antanaitis
 
-<span class="iconify" data-icon="tabler:phone"></span> [(+370) 600-86206](https://wa.me/11234567890)
+<span class="iconify" data-icon="tabler:phone"></span> [(+370) 600-86206](tel:+37060086206)
   : <span class="iconify" data-icon="tabler:brand-linkedin"></span> [linkedin.com/in/justas-antanaitis/](https://linkedin.com/in/justas-antanaitis/)
-  : <span class="iconify" data-icon="tabler:mail"></span> [antanaitis.justas@gmail.com](mailto:mail@example.com)
+  : <span class="iconify" data-icon="tabler:mail"></span> [antanaitis.justas@gmail.com](mailto:antanaitis.justas@gmail.com)
   : <span class="iconify" data-icon="ic:outline-location-on"></span> Kaunas, Lithuania
 
 ## About Me
