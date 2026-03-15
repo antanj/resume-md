@@ -35,7 +35,8 @@ I work with clients as an independent full-stack engineer, usually taking owners
   - Build a voice-enabled CRM AI agent with Node.js, Express, Mastra, Google GenAI, and CopilotKit to streamline day-to-day user workflows.
 
 - **Stealth Project | Employee Engagement & Learning Platform**
-  - Build a SaaS survey solution for C-level leaders and managers to gather employee feedback and support engagement and learning.
+  - Build a tenant-based SaaS survey platform end-to-end with React, NestJS, PostgreSQL, and MikroORM.
+  - Own the full solution across product implementation, backend architecture, data modeling, and ongoing development.
 
 - **Spec-First SaaS Platform (Passion Project)**
   - Build a stealth spec management SaaS with AI-assisted workflows for software specification quality and consistency.
