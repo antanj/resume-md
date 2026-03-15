@@ -54,9 +54,8 @@ I work with clients as an independent full-stack engineer, helping shape solutio
 - Developed full-stack features for an ERP platform serving SMB manufacturing and distribution companies, including domain-specific configurators and pricing calculators for complex products.
 - Took ownership of end-to-end ERP features early in my career, working across business logic, UI flows, and domain-specific product requirements.
 
-**Intern Web Developer (Erasmus internship)**
-  : **RVD Media Group**
-  : **May 2017 - June 2017**
+**May 2017 - June 2017**
+  : **Intern Web Developer (Erasmus internship) @ RVD Media Group**
 
 Built frontend features and supported production tasks as part of an Erasmus software engineering internship.
 
