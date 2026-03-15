@@ -12,8 +12,8 @@ I'm a full-stack engineer with 9 years of experience, mostly as an independent c
 
 ## Experience
 
-**Full-Stack Software Engineer @ Freelance**
-  : **April 2018 - Present | 8 years**
+**April 2018 - Present | 8 years**
+  : **Full-Stack Software Engineer @ Freelance**
 
 I work with clients as an independent full-stack engineer, usually taking ownership from architecture to delivery and ongoing maintenance.
 
@@ -38,13 +38,12 @@ I work with clients as an independent full-stack engineer, usually taking owners
 - **Spec-First SaaS Platform (Passion Project)**
   - Building a stealth spec management SaaS with AI-assisted workflows for software specification quality and consistency.
 
-**Software Engineer @ Virtustream**
-  : **March 2018 - April 2019**
-
+**March 2018 - April 2019**
+  : **Software Engineer @ Virtustream**
 - Built React UI features for an enterprise risk and compliance monitoring platform in an international team.
 
-**Software Engineer @ Grand ERP**
-  : **January 2017 - March 2018**
+**January 2017 - March 2018**
+  : **Software Engineer @ Grand ERP**
 
 - Developed full-stack features for an ERP platform serving SMB manufacturing and distribution companies.
 - Early in my career, my first team trusted me with end-to-end ERP features, which accelerated my growth as an engineer.
