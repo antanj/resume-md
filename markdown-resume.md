@@ -26,23 +26,23 @@ I work with clients as an independent full-stack engineer, helping shape solutio
 
 **Ongoing**
 
-- **Decathlon | Product NPS & BI Platform**
+- **Decathlon • Product NPS & BI Platform**
   - Own core platform areas across survey preparation, survey delivery, results dashboards, and reporting systems, helping shape technical direction across multiple business workflows.
   - Deliver across the full lifecycle, from implementation and CI/CD to production maintenance and ongoing improvements, balancing feature delivery with long-term platform reliability.
   - Build containerized .NET and Node.js services, React and Next.js frontends, PostgreSQL reporting flows, and AI agents with Mastra and CopilotKit.
 
-- **RG Consulting | ERP Solution**
+- **RG Consulting • ERP Solution**
   - Lead frontend architecture decisions for a large React, MUI, Redux, and Nx-based ERP application, partnering with stakeholders on technical direction and establishing patterns that improved consistency across modules.
   - Build a voice-enabled CRM AI agent with Node.js, Express, Mastra, Google GenAI, and CopilotKit, shaping the solution around user workflows to reduce repetitive CRM work.
 
-- **Stealth Project | Employee Engagement & Learning Platform**
+- **Stealth Project • Employee Engagement & Learning Platform**
   - Build a multi-tenant SaaS survey platform end-to-end with React, NestJS, PostgreSQL, and MikroORM for employee engagement and learning workflows.
   - Own solution design across backend architecture, data modeling, and implementation, creating a foundation that is easier to extend as tenant and product requirements evolve.
 
 **Selected Past Projects**
 
-- **Shipping Logistics Platform | ERP Solution** - Built Next.js analytics dashboard features and contributed to UI architecture refactoring for a more consistent and maintainable frontend foundation.
-- **Digital Asset Exchange | Trading Infrastructure** - Built TypeScript and Node.js trading infrastructure features, improved ELK-based observability, and worked on Next.js Web3 wallet integrations.
+- **Shipping Logistics Platform • ERP Solution** - Built Next.js analytics dashboard features and contributed to UI architecture refactoring for a more consistent and maintainable frontend foundation.
+- **Digital Asset Exchange • Trading Infrastructure** - Built TypeScript and Node.js trading infrastructure features, improved ELK-based observability, and worked on Next.js Web3 wallet integrations.
 
 **March 2018 - April 2019**
   : **Software Engineer @ Virtustream**
