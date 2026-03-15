@@ -19,7 +19,7 @@ I'm a full-stack engineer with 9 years of experience delivering products end-to-
 
 ## Experience
 
-**April 2018 - Present | 8 years**
+**April 2018 - Present**
   : **Full-Stack Software Engineer @ Freelance**
 
 I work with clients as an independent full-stack engineer, helping shape solutions from early scoping and architecture through delivery, rollout, and long-term maintenance.
