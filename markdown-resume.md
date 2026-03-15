@@ -59,25 +59,19 @@ I work with clients as an independent full-stack engineer, usually taking owners
 Built frontend features and supported production tasks as part of an Erasmus software engineering internship.
 
 ## Education
-**Additional Graduate-Level Coursework (Computer Science)**
-  : **2017 - 2020**
-
-Vytautas Magnus University
-  : Kaunas, Lithuania
+**2017 - 2020**
+  : **Additional Graduate-Level Coursework (Computer Science)**
+  : Vytautas Magnus University, Kaunas, Lithuania
 
 Relevant coursework: Machine Learning, Optimization Algorithms
 
-**Web Development**
-  : **2016 - 2017**
+**2016 - 2017**
+  : **Web Development**
+  : Kaunas School of Information Technology, Kaunas, Lithuania
 
-Kaunas School of Information Technology
-  : Kaunas, Lithuania
-
-**Bachelor's Degree, Psychology**
-  : **2012 - 2016**
-
-Vytautas Magnus University
-  : Kaunas, Lithuania
+**2012 - 2016**
+  : **Bachelor's Degree, Psychology**
+  : Vytautas Magnus University, Kaunas, Lithuania
 
 ## **Additional Information**
 
