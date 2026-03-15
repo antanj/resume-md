@@ -36,8 +36,8 @@ I work with clients as an independent full-stack engineer, helping shape solutio
   - Build a voice-enabled CRM AI agent with Node.js, Express, Mastra, Google GenAI, and CopilotKit, shaping the solution around user workflows to reduce repetitive CRM work.
 
 - **Stealth Project | Employee Engagement & Learning Platform**
-  - Build a tenant-based SaaS survey platform end-to-end with React, NestJS, PostgreSQL, and MikroORM.
-  - Own the full solution across product implementation, backend architecture, data modeling, and ongoing development.
+  - Build a multi-tenant SaaS survey platform end-to-end with React, NestJS, PostgreSQL, and MikroORM for employee engagement and learning workflows.
+  - Own solution design across backend architecture, data modeling, and implementation, creating a foundation that is easier to extend as tenant and product requirements evolve.
 
 - **Spec-First SaaS Platform (Passion Project)**
   - Build a spec management SaaS focused on improving software specification quality and consistency.
@@ -45,8 +45,8 @@ I work with clients as an independent full-stack engineer, helping shape solutio
 
 **Selected Past Projects**
 
-- **Shipping Logistics Platform | ERP Solution** - Built Next.js analytics dashboard features and contributed to UI architecture refactoring.
-- **Digital Asset Exchange | Trading Infrastructure** - Worked on TypeScript and Node.js trading infrastructure, ELK observability, and Next.js Web3 wallet integrations.
+- **Shipping Logistics Platform | ERP Solution** - Built Next.js analytics dashboard features and contributed to UI architecture refactoring for a more consistent and maintainable frontend foundation.
+- **Digital Asset Exchange | Trading Infrastructure** - Built TypeScript and Node.js trading infrastructure features, improved ELK-based observability, and worked on Next.js Web3 wallet integrations.
 
 **March 2018 - April 2019**
   : **Software Engineer @ Virtustream**
@@ -56,7 +56,7 @@ I work with clients as an independent full-stack engineer, helping shape solutio
   : **Software Engineer @ Grand ERP**
 
 - Developed full-stack features for an ERP platform serving SMB manufacturing and distribution companies, including domain-specific configurators and pricing calculators for complex products.
-- Early in my career, my first team trusted me with end-to-end ERP features, which accelerated my growth as an engineer.
+- Took ownership of end-to-end ERP features early in my career, working across business logic, UI flows, and domain-specific product requirements.
 
 **Intern Web Developer (Erasmus internship)**
   : **RVD Media Group**
