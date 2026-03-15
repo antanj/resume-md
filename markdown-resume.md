@@ -31,8 +31,8 @@ I work with clients as an independent full-stack engineer, usually taking owners
   - Build containerized .NET and Node.js services, React and Next.js frontends, PostgreSQL reporting flows, and AI agents with Mastra and CopilotKit.
 
 - **RG Consulting | ERP Solution**
-  - Lead a frontend architecture refactor to improve developer experience, code quality, maintainability, and long-term scalability.
-  - Build a voice-enabled AI agent to streamline day-to-day user workflows.
+  - Lead a frontend architecture refactor for a large React, MUI, Redux, and Nx-based ERP application to improve developer experience, code quality, maintainability, and long-term scalability.
+  - Build a voice-enabled CRM AI agent with Node.js, Express, Mastra, Google GenAI, and CopilotKit to streamline day-to-day user workflows.
 
 - **Stealth Project | Employee Engagement & Learning Platform**
   - Build a SaaS survey solution for C-level leaders and managers to gather employee feedback and support engagement and learning.
