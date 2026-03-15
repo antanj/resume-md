@@ -26,9 +26,10 @@ I work with clients as an independent full-stack engineer, usually taking owners
 **Ongoing**
 
 - **Decathlon | Product NPS & BI Platform**
-  - Serve as primary engineer for Decathlon’s Product NPS platform across preparation, survey, and results systems.
-  - Ship end-to-end work from frontend and backend development to infrastructure changes.
-  - Build AI workflows and agents for analysis and decision support.
+  - Own most of the platform across survey preparation, survey delivery, results dashboards, and reporting systems.
+  - Build and maintain containerized services across Node.js and .NET, along with React and Next.js frontends.
+  - Design PostgreSQL data models and denormalized reporting flows to support performance, aggregation, and analytics use cases.
+  - Build AI agents with Mastra and agent-facing UI with CopilotKit for analysis and decision-support workflows.
 
 - **RG Consulting | ERP Solution**
   - Lead a frontend architecture refactor to improve developer experience, code quality, maintainability, and long-term scalability.
