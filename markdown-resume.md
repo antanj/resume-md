@@ -79,7 +79,7 @@ Relevant coursework: Machine Learning, Optimization Algorithms
   : **Bachelor's Degree, Psychology**
   : Vytautas Magnus University, Kaunas, Lithuania
 
-## **Additional Information**
+## Additional Information
 
 **Languages:** Lithuanian (native), English (fluent).  
 **Interests:** calisthenics, board sports, music.
