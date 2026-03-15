@@ -44,11 +44,8 @@ I work with clients as an independent full-stack engineer, usually taking owners
 
 **Selected Past Projects**
 
-- **Shipping Logistics Platform | ERP Solution**
-  - Built analytics dashboard features in Next.js and contributed to UI architecture refactoring for a large ERP application.
-
-- **Digital Asset Exchange | Trading Infrastructure**
-  - Worked on TypeScript and Node.js trading infrastructure, delivered ELK-based observability, and built Next.js Web3 wallet integrations.
+- **Shipping Logistics Platform | ERP Solution** - Built Next.js analytics dashboard features and contributed to UI architecture refactoring.
+- **Digital Asset Exchange | Trading Infrastructure** - Worked on TypeScript and Node.js trading infrastructure, ELK observability, and Next.js Web3 wallet integrations.
 
 **March 2018 - April 2019**
   : **Software Engineer @ Virtustream**
